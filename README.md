@@ -1,6 +1,6 @@
 # FieldGateway.LoRa.ArduinoNanoEasySensorsClient
 
-Sample [Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano) clients for my [LoRa](https://lora-alliance.org/) field gateway projects
+Sample [Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano) client for my [LoRa](https://lora-alliance.org/) field gateway projects
 
 I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa), [Sparkfun ATSHA204](https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library) and [Silicon Labs Si7005](https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02) libraries, thank you to the authors Sandeep Mistry, Sparkfun & Seeedstudio.
 
